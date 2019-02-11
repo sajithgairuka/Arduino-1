@@ -1,0 +1,6 @@
+---components ---
+1)10K Thermistor 1
+2)10 k Resistor  1
+3)Arduino uno    1
+4)Arduino LCD 	 1
+5)I2C 16x2 Arduino LCD Display Module 1
